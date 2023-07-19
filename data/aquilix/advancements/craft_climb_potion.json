@@ -1,0 +1,14 @@
+{
+    "__comment": ":D",
+    "criteria": {
+        "c1": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "aquilix:climb_potion"
+            }
+        }
+    },
+    "rewards": {
+        "function": "aquilix:climb/craft"
+    }
+}

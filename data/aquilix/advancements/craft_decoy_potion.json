@@ -1,0 +1,14 @@
+{
+    "__comment": ":D",
+    "criteria": {
+        "c1": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "aquilix:decoy_potion"
+            }
+        }
+    },
+    "rewards": {
+        "function": "aquilix:decoy/craft"
+    }
+}

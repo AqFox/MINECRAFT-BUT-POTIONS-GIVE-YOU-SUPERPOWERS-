@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "crit": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "dynamite:dynamite"
+            }
+        }
+    },
+    "rewards": {
+        "function": "dynamite:give"
+    }
+}

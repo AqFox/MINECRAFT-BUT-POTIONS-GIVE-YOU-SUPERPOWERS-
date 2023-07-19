@@ -1,0 +1,20 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 20,
+          "name": "minecraft:potion",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Potion of Lightning\",\"italic\":false}'},CustomPotionEffects:[{Id:27b,Amplifier:0b,Duration:600}],CustomPotionColor:10790962}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

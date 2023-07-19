@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#G#",
+        "OJS",
+        "#D#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:slime_ball"
+        },
+        "G": {
+            "item": "minecraft:golden_apple"
+        },
+        "O": {
+            "item": "minecraft:obsidian"
+        },
+        "J": {
+            "item": "minecraft:glass_bottle"
+        },
+        "S": {
+            "item": "minecraft:shield"
+        },
+        "D": {
+            "item": "minecraft:diamond_sword"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#L#",
+        "LGL",
+        "#L#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:armor_stand"
+        },
+        "L": {
+            "item": "minecraft:leather_chestplate"
+        },
+        "G": {
+            "item": "minecraft:glass_bottle"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+}

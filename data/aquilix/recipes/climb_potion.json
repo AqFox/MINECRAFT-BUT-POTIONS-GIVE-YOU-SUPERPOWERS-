@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#B#",
+        "BGB",
+        "#B#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:ladder"
+        },
+        "B": {
+            "item": "minecraft:diamond"
+        },
+        "G": {
+            "item": "minecraft:glass_bottle"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+}

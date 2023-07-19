@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#F#",
+        "FGF",
+        "DFD"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:quartz"
+        },
+        "F": {
+            "item": "minecraft:feather"
+        },
+        "G": {
+            "item": "minecraft:glass_bottle"
+        },
+        "D": {
+            "item": "minecraft:firework_rocket"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+}

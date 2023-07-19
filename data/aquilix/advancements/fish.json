@@ -1,0 +1,13 @@
+r{
+    "criteria": {
+        "hook_item": {
+            "trigger": "minecraft:fishing_rod_hooked",
+            "conditions": {
+                "item": {}
+            }
+        }
+    },
+    "rewards": {
+        "function": "aquilix:waypoint/craft/dimension_check"
+    }
+}

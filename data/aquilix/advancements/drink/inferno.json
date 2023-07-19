@@ -1,0 +1,17 @@
+{
+    "__comment": ":D",
+    "criteria": {
+        "c1": {
+            "trigger": "minecraft:consume_item",
+            "conditions": {
+                "item": {
+                    "item": "minecraft:potion",
+                    "nbt": "{aquilix.inferno:1b}"
+                }
+            }
+        }
+    },
+    "rewards": {
+        "function": "aquilix:inferno/drink"
+    }
+}

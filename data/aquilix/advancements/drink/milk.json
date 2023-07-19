@@ -1,0 +1,16 @@
+{
+    "__comment": ":D",
+    "criteria": {
+        "c1": {
+            "trigger": "minecraft:consume_item",
+            "conditions": {
+                "item": {
+                    "item": "minecraft:milk_bucket"
+                }
+            }
+        }
+    },
+    "rewards": {
+        "function": "aquilix:drink_milk"
+    }
+}
